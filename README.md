@@ -24,7 +24,7 @@ Whilst still in the `ember-app-kit-example-with-bloggr-client` project directory
 grunt server
 ```
 
-Browse [localhost:8000](localhost:8000)
+Browse [localhost:8000](http://localhost:8000)
 
 ## Ember App Kit
 
