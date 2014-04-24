@@ -1,6 +1,30 @@
 # Example of the Bloggr client app using Ember App Kit
 
-Use `grunt server` to try out the app.
+## Installation
+
+### Preconditions
+
+1.  Install `node`
+1.  Install `npm`
+
+Then
+
+```
+git clone git@github.com:pixelhandler/ember-app-kit-example-with-bloggr-client.git
+cd ember-app-kit-example-with-bloggr-client
+npm install -g grunt-cli
+npm install
+```
+
+## Running the App
+
+Whilst still in the `ember-app-kit-example-with-bloggr-client` project directory:
+
+```
+grunt server
+```
+
+Browse [localhost:8000](http://localhost:8000)
 
 ## Ember App Kit
 
